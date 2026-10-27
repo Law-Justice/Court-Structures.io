@@ -2,7 +2,7 @@
 
 A live, Pear Deck-style classroom game about the structure of the U.S. court system.
 Students are "cases" on a docket. Correct answers move them from the district court up the
-staircase to the Supreme Court.
+staircase to the Supreme Court. Check-in questions are scenarios that apply the rules.
 
 ## Publish on GitHub Pages
 1. Create a public repository (for example `court-climb`) and upload `index.html` to the top folder.
